@@ -2,8 +2,8 @@
 
 from rembg import remove
 
-input_path = "sa.jpeg"
-output_path = "as.jpeg"
+input_path = "degistirmek_istediğiniz_gorsel.jpeg"
+output_path = "yenigorsel.jpeg"
 
 with open(input_path,'rb') as i :
     with open(output_path,'wb') as o:
